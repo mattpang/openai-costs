@@ -9,6 +9,11 @@ jobs:
   parse_pricing:
     name: Parse OpenAI Pricing Page
     runs-on: ubuntu-latest
+    
+    permissions:
+      # Give the default GITHUB_TOKEN write permission to commit and push the
+      # added or changed files to the repository.
+      contents: write
 
     steps:
       - name: Checkout repo
@@ -28,10 +33,4 @@ jobs:
       - name: Scrape OpenAI pricing and save to JSON
         run: node scripts/parse-pricing.js
 
-      - name: Commit and push results
-        run: |
-          git config --global user.name 'github-actions'
-          git config --global user.email 'github-actions@users.noreply.github.com'
-          git add openai-prices.json
-          git commit -m "Update OpenAI pricing JSON" || echo "No changes to commit"
-          git push
+      - uses: stefanzweifel/git-auto-commit-action@v4
