@@ -6,7 +6,7 @@
     "parse": "node scripts/parse-pricing.js"
   },
   "dependencies": {
-    "playwright": "^1.45.0",
+    "playwright-chromium": "^1.45.0",
     "playwright-extra": "^4.3.6",
     "playwright-extra-plugin-stealth": "^0.0.1",
     "puppeteer-extra-plugin-stealth": "^2.11.2"
