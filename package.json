@@ -1,0 +1,14 @@
+{
+  "name": "openai-pricing-scraper",
+  "version": "1.0.0",
+  "description": "Scrapes OpenAI pricing and saves it to JSON",
+  "scripts": {
+    "parse": "node scripts/parse-pricing.js"
+  },
+  "dependencies": {
+    "playwright": "^1.45.0",
+    "playwright-extra": "^4.3.6",
+    "playwright-extra-plugin-stealth": "^0.0.1",
+    "puppeteer-extra-plugin-stealth": "^2.11.2"
+  }
+}
