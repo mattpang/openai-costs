@@ -20,7 +20,10 @@ jobs:
           node-version: '20'
 
       - name: Install Playwright
-        run: npx playwright install --with-deps
+        run: npx playwright-chromium install --with-deps
+
+      - name: Install packges
+        run: npm install
 
       - name: Scrape OpenAI pricing and save to JSON
         run: node scripts/parse-pricing.js
