@@ -493,17 +493,17 @@
   },
   {
     "model": "sora-2",
-    "size:_output_resolution": "Portrait: 720x1280 Landscape: 1280x720",
+    "size:_output_resolution": "Portrait: 720x1280<br>Landscape: 1280x720",
     "price_per_second": "$0.10"
   },
   {
     "model": "sora-2-pro",
-    "size:_output_resolution": "Portrait: 720x1280 Landscape: 1280x720",
+    "size:_output_resolution": "Portrait: 720x1280<br>Landscape: 1280x720",
     "price_per_second": "$0.30"
   },
   {
     "model": "sora-2-pro",
-    "size:_output_resolution": "Portrait: 1024x1792 Landscape: 1792x1024",
+    "size:_output_resolution": "Portrait: 1024x1792<br>Landscape: 1792x1024",
     "price_per_second": "$0.50"
   },
   {
