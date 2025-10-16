@@ -694,6 +694,12 @@
     "estimated_cost": "$0.006 / minute"
   },
   {
+    "model": "gpt-4o-transcribe-diarize",
+    "input": "$2.50",
+    "output": "$10.00",
+    "estimated_cost": "$0.006 / minute"
+  },
+  {
     "model": "gpt-4o-mini-transcribe",
     "input": "$1.25",
     "output": "$5.00",
@@ -707,6 +713,12 @@
   },
   {
     "model": "gpt-4o-transcribe",
+    "input": "$6.00",
+    "output": "-",
+    "estimated_cost": "$0.006 / minute"
+  },
+  {
+    "model": "gpt-4o-transcribe-diarize",
     "input": "$6.00",
     "output": "-",
     "estimated_cost": "$0.006 / minute"
