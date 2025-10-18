@@ -332,7 +332,7 @@
   {
     "model": "gpt-5-search-api",
     "input": "$1.25",
-    "cached_input": "-",
+    "cached_input": "$0.125",
     "output": "$10.00"
   },
   {
