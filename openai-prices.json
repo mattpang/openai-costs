@@ -708,7 +708,7 @@
   },
   {
     "tool": "Code Interpreter",
-    "cost": "$0.03 / container"
+    "cost": "1 GB (default): $0.03 / container\n4 GB: $0.12 / container\n16 GB: $0.48 / container\n64 GB: $1.92 / container"
   },
   {
     "tool": "File search storage",
