@@ -432,6 +432,18 @@
     "output": "$12.00"
   },
   {
+    "model": "gpt-image-1.5",
+    "input": "$5.00",
+    "cached_input": "$1.25",
+    "output": "$10.00"
+  },
+  {
+    "model": "chatgpt-image-latest",
+    "input": "$5.00",
+    "cached_input": "$1.25",
+    "output": "$10.00"
+  },
+  {
     "model": "gpt-image-1",
     "input": "$5.00",
     "cached_input": "$1.25",
@@ -532,6 +544,18 @@
     "input": "$2.00",
     "cached_input": "$0.50",
     "output": "$8.00"
+  },
+  {
+    "model": "gpt-image-1.5",
+    "input": "$8.00",
+    "cached_input": "$2.00",
+    "output": "$32.00"
+  },
+  {
+    "model": "chatgpt-image-latest",
+    "input": "$8.00",
+    "cached_input": "$2.00",
+    "output": "$32.00"
   },
   {
     "model": "gpt-image-1",
@@ -851,6 +875,48 @@
     "model": "TTS HD",
     "use_case": "Speech generation",
     "cost": "$30.00 / 1M characters"
+  },
+  {
+    "model": "GPT Image 1.5",
+    "quality": "Low",
+    "1024_x_1024": "$0.009",
+    "1024_x_1536": "$0.013",
+    "1536_x_1024": "$0.013"
+  },
+  {
+    "model": "Medium",
+    "quality": "$0.034",
+    "1024_x_1024": "$0.05",
+    "1024_x_1536": "$0.05",
+    "1536_x_1024": null
+  },
+  {
+    "model": "High",
+    "quality": "$0.133",
+    "1024_x_1024": "$0.2",
+    "1024_x_1536": "$0.2",
+    "1536_x_1024": null
+  },
+  {
+    "model": "GPT Image Latest",
+    "quality": "Low",
+    "1024_x_1024": "$0.009",
+    "1024_x_1536": "$0.013",
+    "1536_x_1024": "$0.013"
+  },
+  {
+    "model": "Medium",
+    "quality": "$0.034",
+    "1024_x_1024": "$0.05",
+    "1024_x_1536": "$0.05",
+    "1536_x_1024": null
+  },
+  {
+    "model": "High",
+    "quality": "$0.133",
+    "1024_x_1024": "$0.2",
+    "1024_x_1536": "$0.2",
+    "1536_x_1024": null
   },
   {
     "model": "GPT Image 1",
