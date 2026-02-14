@@ -845,8 +845,12 @@
     "output": "$1.60"
   },
   {
-    "tool": "Container usage (including Hosted Shell and Code Interpreter)",
+    "tool": "Container usage (including Hosted Shell and Code Interpreter)\nNow",
     "cost": "1 GB (default): $0.03 / container\n4 GB: $0.12 / container\n16 GB: $0.48 / container\n64 GB: $1.92 / container"
+  },
+  {
+    "tool": "Container usage (including Hosted Shell and Code Interpreter)\nStarting March 31st",
+    "cost": "1 GB (default): $0.03 / 20 minutes / container\n4 GB: $0.12 / 20 minutes / container\n16 GB: $0.48 / 20 minutes / container\n64 GB: $1.92 / 20 minutes / container"
   },
   {
     "tool": "File search storage",
