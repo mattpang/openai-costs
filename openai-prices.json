@@ -252,6 +252,12 @@
     "output": "$10.00"
   },
   {
+    "model": "gpt-5.3-codex",
+    "input": "$1.75",
+    "cached_input": "$0.175",
+    "output": "$14.00"
+  },
+  {
     "model": "gpt-5.2-codex",
     "input": "$1.75",
     "cached_input": "$0.175",
@@ -520,6 +526,12 @@
     "input": "$0.45",
     "cached_input": "$0.045",
     "output": "$3.60"
+  },
+  {
+    "model": "gpt-5.3-codex",
+    "input": "$3.50",
+    "cached_input": "$0.35",
+    "output": "$28.00"
   },
   {
     "model": "gpt-5.2-codex",
