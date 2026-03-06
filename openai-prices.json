@@ -1,5 +1,17 @@
 [
   {
+    "model": "gpt-5.4 (<272K context length)",
+    "input": "$1.25",
+    "cached_input": "$0.13",
+    "output": "$7.50"
+  },
+  {
+    "model": "gpt-5.4-pro (<272K context length)",
+    "input": "$15.00",
+    "cached_input": "",
+    "output": "$90.00"
+  },
+  {
     "model": "gpt-5.2",
     "input": "$0.875",
     "cached_input": "$0.0875",
@@ -162,6 +174,18 @@
     "output": "-"
   },
   {
+    "model": "gpt-5.4 (<272K context length)",
+    "input": "$1.25",
+    "cached_input": "$0.13",
+    "output": "$7.50"
+  },
+  {
+    "model": "gpt-5.4-pro (<272K context length)",
+    "input": "$15.00",
+    "cached_input": "",
+    "output": "$90.00"
+  },
+  {
     "model": "gpt-5.2",
     "input": "$0.875",
     "cached_input": "$0.0875",
@@ -202,6 +226,30 @@
     "input": "$0.55",
     "cached_input": "$0.138",
     "output": "$2.20"
+  },
+  {
+    "model": "gpt-5.4 (<272K context length)",
+    "input": "$2.50",
+    "cached_input": "$0.25",
+    "output": "$15.00"
+  },
+  {
+    "model": "gpt-5.4 (>272K context length)",
+    "input": "$5.00",
+    "cached_input": "$0.50",
+    "output": "$22.50"
+  },
+  {
+    "model": "gpt-5.4-pro (<272K context length)",
+    "input": "$30.00",
+    "cached_input": "",
+    "output": "$180.00"
+  },
+  {
+    "model": "gpt-5.4-pro (>272K context length)",
+    "input": "$60.00",
+    "cached_input": "",
+    "output": "$270.00"
   },
   {
     "model": "gpt-5.2",
@@ -508,6 +556,18 @@
     "input": "$2.00",
     "cached_input": "$0.20",
     "output": "-"
+  },
+  {
+    "model": "gpt-5.4 (<272K context length)",
+    "input": "$5.00",
+    "cached_input": "$0.50",
+    "output": "$30.00"
+  },
+  {
+    "model": "gpt-5.4-pro (<272K context length)",
+    "input": "/",
+    "cached_input": "/",
+    "output": "/"
   },
   {
     "model": "gpt-5.2",
