@@ -1,15 +1,21 @@
 [
   {
-    "model": "gpt-5.4 (<272K context length)",
-    "input": "$1.25",
-    "cached_input": "$0.13",
-    "output": "$7.50"
+    "": "gpt-5.4",
+    "short_context": "$1.25",
+    "long_context": "$0.13",
+    "model": "$7.50",
+    "input": null,
+    "cached_input": null,
+    "output": null
   },
   {
-    "model": "gpt-5.4-pro (<272K context length)",
-    "input": "$15.00",
-    "cached_input": "",
-    "output": "$90.00"
+    "": "gpt-5.4-pro",
+    "short_context": "$15.00",
+    "long_context": "-",
+    "model": "$90.00",
+    "input": null,
+    "cached_input": null,
+    "output": null
   },
   {
     "model": "gpt-5.2",
@@ -174,16 +180,22 @@
     "output": "-"
   },
   {
-    "model": "gpt-5.4 (<272K context length)",
-    "input": "$1.25",
-    "cached_input": "$0.13",
-    "output": "$7.50"
+    "": "gpt-5.4",
+    "short_context": "$1.25",
+    "long_context": "$0.13",
+    "model": "$7.50",
+    "input": null,
+    "cached_input": null,
+    "output": null
   },
   {
-    "model": "gpt-5.4-pro (<272K context length)",
-    "input": "$15.00",
-    "cached_input": "",
-    "output": "$90.00"
+    "": "gpt-5.4-pro",
+    "short_context": "$15.00",
+    "long_context": "-",
+    "model": "$90.00",
+    "input": null,
+    "cached_input": null,
+    "output": null
   },
   {
     "model": "gpt-5.2",
@@ -228,28 +240,22 @@
     "output": "$2.20"
   },
   {
-    "model": "gpt-5.4 (<272K context length)",
-    "input": "$2.50",
-    "cached_input": "$0.25",
-    "output": "$15.00"
+    "": "gpt-5.4",
+    "short_context": "$2.50",
+    "long_context": "$0.25",
+    "model": "$15.00",
+    "input": null,
+    "cached_input": null,
+    "output": null
   },
   {
-    "model": "gpt-5.4 (>272K context length)",
-    "input": "$5.00",
-    "cached_input": "$0.50",
-    "output": "$22.50"
-  },
-  {
-    "model": "gpt-5.4-pro (<272K context length)",
-    "input": "$30.00",
-    "cached_input": "",
-    "output": "$180.00"
-  },
-  {
-    "model": "gpt-5.4-pro (>272K context length)",
-    "input": "$60.00",
-    "cached_input": "",
-    "output": "$270.00"
+    "": "gpt-5.4-pro",
+    "short_context": "$30.00",
+    "long_context": "-",
+    "model": "$180.00",
+    "input": null,
+    "cached_input": null,
+    "output": null
   },
   {
     "model": "gpt-5.2",
@@ -558,16 +564,13 @@
     "output": "-"
   },
   {
-    "model": "gpt-5.4 (<272K context length)",
-    "input": "$5.00",
-    "cached_input": "$0.50",
-    "output": "$30.00"
-  },
-  {
-    "model": "gpt-5.4-pro (<272K context length)",
-    "input": "/",
-    "cached_input": "/",
-    "output": "/"
+    "": "gpt-5.4",
+    "short_context": "$5.00",
+    "long_context": "$0.50",
+    "model": "$30.00",
+    "input": null,
+    "cached_input": null,
+    "output": null
   },
   {
     "model": "gpt-5.2",
@@ -890,7 +893,7 @@
     "output": "$16.00"
   },
   {
-    "model": "o4-mini-2025-04-16\nwith data sharing",
+    "model": "o4-mini-2025-04-16",
     "training": "$100.00 / hour",
     "input": "$2.00",
     "cached_input": "$0.50",
@@ -953,100 +956,9 @@
     "output": "$1.60"
   },
   {
-    "tool": "Container usage (including Hosted Shell and Code Interpreter)\nNow",
-    "cost": "1 GB (default): $0.03 / container\n4 GB: $0.12 / container\n16 GB: $0.48 / container\n64 GB: $1.92 / container"
-  },
-  {
-    "tool": "Container usage (including Hosted Shell and Code Interpreter)\nStarting March 31st",
-    "cost": "1 GB (default): $0.03 / 20 minutes / container\n4 GB: $0.12 / 20 minutes / container\n16 GB: $0.48 / 20 minutes / container\n64 GB: $1.92 / 20 minutes / container"
-  },
-  {
-    "tool": "File search storage",
-    "cost": "$0.10 / GB per day (1GB free)"
-  },
-  {
-    "tool": "File search tool call\nResponses API only",
-    "cost": "$2.50 / 1k calls"
-  },
-  {
-    "tool": "Web search (all models)\n[1]",
-    "cost": "$10.00 / 1k calls + search content tokens billed at model rates"
-  },
-  {
-    "tool": "Web search preview (reasoning models, including gpt-5, o-series)",
-    "cost": "$10.00 / 1k calls + search content tokens billed at model rates"
-  },
-  {
-    "tool": "Web search preview (non-reasoning models)",
-    "cost": "$25.00 / 1k calls + search content tokens are free"
-  },
-  {
     "usage_meter": "Storage for ChatKit File / Image Uploads",
     "free_tier_(per_account,_per_month)": "1 GB",
     "price_beyond_free_tier": "$0.10 / GB-day"
-  },
-  {
-    "model": "gpt-4o-mini-tts",
-    "input": "$0.60",
-    "output": "-",
-    "estimated_cost": "$0.015 / minute"
-  },
-  {
-    "model": "gpt-4o-transcribe",
-    "input": "$2.50",
-    "output": "$10.00",
-    "estimated_cost": "$0.006 / minute"
-  },
-  {
-    "model": "gpt-4o-transcribe-diarize",
-    "input": "$2.50",
-    "output": "$10.00",
-    "estimated_cost": "$0.006 / minute"
-  },
-  {
-    "model": "gpt-4o-mini-transcribe",
-    "input": "$1.25",
-    "output": "$5.00",
-    "estimated_cost": "$0.003 / minute"
-  },
-  {
-    "model": "gpt-4o-mini-tts",
-    "input": "-",
-    "output": "$12.00",
-    "estimated_cost": "$0.015 / minute"
-  },
-  {
-    "model": "gpt-4o-transcribe",
-    "input": "$6.00",
-    "output": "-",
-    "estimated_cost": "$0.006 / minute"
-  },
-  {
-    "model": "gpt-4o-transcribe-diarize",
-    "input": "$6.00",
-    "output": "-",
-    "estimated_cost": "$0.006 / minute"
-  },
-  {
-    "model": "gpt-4o-mini-transcribe",
-    "input": "$3.00",
-    "output": "-",
-    "estimated_cost": "$0.003 / minute"
-  },
-  {
-    "model": "Whisper",
-    "use_case": "Transcription",
-    "cost": "$0.006 / minute"
-  },
-  {
-    "model": "TTS",
-    "use_case": "Speech generation",
-    "cost": "$15.00 / 1M characters"
-  },
-  {
-    "model": "TTS HD",
-    "use_case": "Speech generation",
-    "cost": "$30.00 / 1M characters"
   },
   {
     "model": "GPT Image 1.5",
