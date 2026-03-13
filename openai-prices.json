@@ -48,138 +48,6 @@
     "output": "$0.20"
   },
   {
-    "model": "gpt-5.2-pro",
-    "input": "$10.50",
-    "cached_input": "-",
-    "output": "$84.00"
-  },
-  {
-    "model": "gpt-5-pro",
-    "input": "$7.50",
-    "cached_input": "-",
-    "output": "$60.00"
-  },
-  {
-    "model": "gpt-4.1",
-    "input": "$1.00",
-    "cached_input": "-",
-    "output": "$4.00"
-  },
-  {
-    "model": "gpt-4.1-mini",
-    "input": "$0.20",
-    "cached_input": "-",
-    "output": "$0.80"
-  },
-  {
-    "model": "gpt-4.1-nano",
-    "input": "$0.05",
-    "cached_input": "-",
-    "output": "$0.20"
-  },
-  {
-    "model": "gpt-4o",
-    "input": "$1.25",
-    "cached_input": "-",
-    "output": "$5.00"
-  },
-  {
-    "model": "gpt-4o-2024-05-13",
-    "input": "$2.50",
-    "cached_input": "-",
-    "output": "$7.50"
-  },
-  {
-    "model": "gpt-4o-mini",
-    "input": "$0.075",
-    "cached_input": "-",
-    "output": "$0.30"
-  },
-  {
-    "model": "o1",
-    "input": "$7.50",
-    "cached_input": "-",
-    "output": "$30.00"
-  },
-  {
-    "model": "o1-pro",
-    "input": "$75.00",
-    "cached_input": "-",
-    "output": "$300.00"
-  },
-  {
-    "model": "o3-pro",
-    "input": "$10.00",
-    "cached_input": "-",
-    "output": "$40.00"
-  },
-  {
-    "model": "o3",
-    "input": "$1.00",
-    "cached_input": "-",
-    "output": "$4.00"
-  },
-  {
-    "model": "o3-deep-research",
-    "input": "$5.00",
-    "cached_input": "-",
-    "output": "$20.00"
-  },
-  {
-    "model": "o4-mini",
-    "input": "$0.55",
-    "cached_input": "-",
-    "output": "$2.20"
-  },
-  {
-    "model": "o4-mini-deep-research",
-    "input": "$1.00",
-    "cached_input": "-",
-    "output": "$4.00"
-  },
-  {
-    "model": "o3-mini",
-    "input": "$0.55",
-    "cached_input": "-",
-    "output": "$2.20"
-  },
-  {
-    "model": "o1-mini",
-    "input": "$0.55",
-    "cached_input": "-",
-    "output": "$2.20"
-  },
-  {
-    "model": "computer-use-preview",
-    "input": "$1.50",
-    "cached_input": "-",
-    "output": "$6.00"
-  },
-  {
-    "model": "gpt-image-1.5",
-    "input": "$2.50",
-    "cached_input": "$0.63",
-    "output": "$5.00"
-  },
-  {
-    "model": "chatgpt-image-latest",
-    "input": "$2.50",
-    "cached_input": "$0.63",
-    "output": "$5.00"
-  },
-  {
-    "model": "gpt-image-1",
-    "input": "$2.50",
-    "cached_input": "$0.63",
-    "output": "-"
-  },
-  {
-    "model": "gpt-image-1-mini",
-    "input": "$1.00",
-    "cached_input": "$0.10",
-    "output": "-"
-  },
-  {
     "": "gpt-5.4",
     "short_context": "$1.25",
     "long_context": "$0.13",
@@ -228,18 +96,6 @@
     "output": "$0.20"
   },
   {
-    "model": "o3",
-    "input": "$1.00",
-    "cached_input": "$0.25",
-    "output": "$4.00"
-  },
-  {
-    "model": "o4-mini",
-    "input": "$0.55",
-    "cached_input": "$0.138",
-    "output": "$2.20"
-  },
-  {
     "": "gpt-5.4",
     "short_context": "$2.50",
     "long_context": "$0.25",
@@ -286,282 +142,6 @@
     "input": "$0.05",
     "cached_input": "$0.005",
     "output": "$0.40"
-  },
-  {
-    "model": "gpt-5.3-chat-latest",
-    "input": "$1.75",
-    "cached_input": "$0.175",
-    "output": "$14.00"
-  },
-  {
-    "model": "gpt-5.2-chat-latest",
-    "input": "$1.75",
-    "cached_input": "$0.175",
-    "output": "$14.00"
-  },
-  {
-    "model": "gpt-5.1-chat-latest",
-    "input": "$1.25",
-    "cached_input": "$0.125",
-    "output": "$10.00"
-  },
-  {
-    "model": "gpt-5-chat-latest",
-    "input": "$1.25",
-    "cached_input": "$0.125",
-    "output": "$10.00"
-  },
-  {
-    "model": "gpt-5.3-codex",
-    "input": "$1.75",
-    "cached_input": "$0.175",
-    "output": "$14.00"
-  },
-  {
-    "model": "gpt-5.2-codex",
-    "input": "$1.75",
-    "cached_input": "$0.175",
-    "output": "$14.00"
-  },
-  {
-    "model": "gpt-5.1-codex-max",
-    "input": "$1.25",
-    "cached_input": "$0.125",
-    "output": "$10.00"
-  },
-  {
-    "model": "gpt-5.1-codex",
-    "input": "$1.25",
-    "cached_input": "$0.125",
-    "output": "$10.00"
-  },
-  {
-    "model": "gpt-5-codex",
-    "input": "$1.25",
-    "cached_input": "$0.125",
-    "output": "$10.00"
-  },
-  {
-    "model": "gpt-5.2-pro",
-    "input": "$21.00",
-    "cached_input": "-",
-    "output": "$168.00"
-  },
-  {
-    "model": "gpt-5-pro",
-    "input": "$15.00",
-    "cached_input": "-",
-    "output": "$120.00"
-  },
-  {
-    "model": "gpt-4.1",
-    "input": "$2.00",
-    "cached_input": "$0.50",
-    "output": "$8.00"
-  },
-  {
-    "model": "gpt-4.1-mini",
-    "input": "$0.40",
-    "cached_input": "$0.10",
-    "output": "$1.60"
-  },
-  {
-    "model": "gpt-4.1-nano",
-    "input": "$0.10",
-    "cached_input": "$0.025",
-    "output": "$0.40"
-  },
-  {
-    "model": "gpt-4o",
-    "input": "$2.50",
-    "cached_input": "$1.25",
-    "output": "$10.00"
-  },
-  {
-    "model": "gpt-4o-2024-05-13",
-    "input": "$5.00",
-    "cached_input": "-",
-    "output": "$15.00"
-  },
-  {
-    "model": "gpt-4o-mini",
-    "input": "$0.15",
-    "cached_input": "$0.075",
-    "output": "$0.60"
-  },
-  {
-    "model": "gpt-realtime",
-    "input": "$4.00",
-    "cached_input": "$0.40",
-    "output": "$16.00"
-  },
-  {
-    "model": "gpt-realtime-1.5",
-    "input": "$4.00",
-    "cached_input": "$0.40",
-    "output": "$16.00"
-  },
-  {
-    "model": "gpt-realtime-mini",
-    "input": "$0.60",
-    "cached_input": "$0.06",
-    "output": "$2.40"
-  },
-  {
-    "model": "gpt-4o-realtime-preview",
-    "input": "$5.00",
-    "cached_input": "$2.50",
-    "output": "$20.00"
-  },
-  {
-    "model": "gpt-4o-mini-realtime-preview",
-    "input": "$0.60",
-    "cached_input": "$0.30",
-    "output": "$2.40"
-  },
-  {
-    "model": "gpt-audio",
-    "input": "$2.50",
-    "cached_input": "-",
-    "output": "$10.00"
-  },
-  {
-    "model": "gpt-audio-1.5",
-    "input": "$2.50",
-    "cached_input": "-",
-    "output": "$10.00"
-  },
-  {
-    "model": "gpt-audio-mini",
-    "input": "$0.60",
-    "cached_input": "-",
-    "output": "$2.40"
-  },
-  {
-    "model": "gpt-4o-audio-preview",
-    "input": "$2.50",
-    "cached_input": "-",
-    "output": "$10.00"
-  },
-  {
-    "model": "gpt-4o-mini-audio-preview",
-    "input": "$0.15",
-    "cached_input": "-",
-    "output": "$0.60"
-  },
-  {
-    "model": "o1",
-    "input": "$15.00",
-    "cached_input": "$7.50",
-    "output": "$60.00"
-  },
-  {
-    "model": "o1-pro",
-    "input": "$150.00",
-    "cached_input": "-",
-    "output": "$600.00"
-  },
-  {
-    "model": "o3-pro",
-    "input": "$20.00",
-    "cached_input": "-",
-    "output": "$80.00"
-  },
-  {
-    "model": "o3",
-    "input": "$2.00",
-    "cached_input": "$0.50",
-    "output": "$8.00"
-  },
-  {
-    "model": "o3-deep-research",
-    "input": "$10.00",
-    "cached_input": "$2.50",
-    "output": "$40.00"
-  },
-  {
-    "model": "o4-mini",
-    "input": "$1.10",
-    "cached_input": "$0.275",
-    "output": "$4.40"
-  },
-  {
-    "model": "o4-mini-deep-research",
-    "input": "$2.00",
-    "cached_input": "$0.50",
-    "output": "$8.00"
-  },
-  {
-    "model": "o3-mini",
-    "input": "$1.10",
-    "cached_input": "$0.55",
-    "output": "$4.40"
-  },
-  {
-    "model": "o1-mini",
-    "input": "$1.10",
-    "cached_input": "$0.55",
-    "output": "$4.40"
-  },
-  {
-    "model": "gpt-5.1-codex-mini",
-    "input": "$0.25",
-    "cached_input": "$0.025",
-    "output": "$2.00"
-  },
-  {
-    "model": "codex-mini-latest",
-    "input": "$1.50",
-    "cached_input": "$0.375",
-    "output": "$6.00"
-  },
-  {
-    "model": "gpt-5-search-api",
-    "input": "$1.25",
-    "cached_input": "$0.125",
-    "output": "$10.00"
-  },
-  {
-    "model": "gpt-4o-mini-search-preview",
-    "input": "$0.15",
-    "cached_input": "-",
-    "output": "$0.60"
-  },
-  {
-    "model": "gpt-4o-search-preview",
-    "input": "$2.50",
-    "cached_input": "-",
-    "output": "$10.00"
-  },
-  {
-    "model": "computer-use-preview",
-    "input": "$3.00",
-    "cached_input": "-",
-    "output": "$12.00"
-  },
-  {
-    "model": "gpt-image-1.5",
-    "input": "$5.00",
-    "cached_input": "$1.25",
-    "output": "$10.00"
-  },
-  {
-    "model": "chatgpt-image-latest",
-    "input": "$5.00",
-    "cached_input": "$1.25",
-    "output": "$10.00"
-  },
-  {
-    "model": "gpt-image-1",
-    "input": "$5.00",
-    "cached_input": "$1.25",
-    "output": "-"
-  },
-  {
-    "model": "gpt-image-1-mini",
-    "input": "$2.00",
-    "cached_input": "$0.20",
-    "output": "-"
   },
   {
     "": "gpt-5.4",
@@ -816,6 +396,11 @@
     "price_per_second": "$0.50"
   },
   {
+    "model": "sora-2-pro",
+    "size:_output_resolution": "Portrait: 1080x1920 Landscape: 1920x1080",
+    "price_per_second": "$0.70"
+  },
+  {
     "model": "o4-mini-2025-04-16",
     "training": "$100.00 / hour",
     "input": "$2.00",
@@ -956,9 +541,100 @@
     "output": "$1.60"
   },
   {
+    "tool": "Container usage (including Hosted Shell and Code Interpreter)\nNow",
+    "cost": "1 GB (default): $0.03 / container\n4 GB: $0.12 / container\n16 GB: $0.48 / container\n64 GB: $1.92 / container"
+  },
+  {
+    "tool": "Container usage (including Hosted Shell and Code Interpreter)\nStarting March 31st",
+    "cost": "1 GB (default): $0.03 / 20 minutes / container\n4 GB: $0.12 / 20 minutes / container\n16 GB: $0.48 / 20 minutes / container\n64 GB: $1.92 / 20 minutes / container"
+  },
+  {
+    "tool": "File search storage",
+    "cost": "$0.10 / GB per day (1GB free)"
+  },
+  {
+    "tool": "File search tool call\nResponses API only",
+    "cost": "$2.50 / 1k calls"
+  },
+  {
+    "tool": "Web search (all models)\n[1]",
+    "cost": "$10.00 / 1k calls + search content tokens billed at model rates"
+  },
+  {
+    "tool": "Web search preview (reasoning models, including gpt-5, o-series)",
+    "cost": "$10.00 / 1k calls + search content tokens billed at model rates"
+  },
+  {
+    "tool": "Web search preview (non-reasoning models)",
+    "cost": "$25.00 / 1k calls + search content tokens are free"
+  },
+  {
     "usage_meter": "Storage for ChatKit File / Image Uploads",
     "free_tier_(per_account,_per_month)": "1 GB",
     "price_beyond_free_tier": "$0.10 / GB-day"
+  },
+  {
+    "model": "gpt-4o-mini-tts",
+    "input": "$0.60",
+    "output": "",
+    "estimated_cost": "$0.015 / minute"
+  },
+  {
+    "model": "gpt-4o-transcribe",
+    "input": "$2.50",
+    "output": "$10.00",
+    "estimated_cost": "$0.006 / minute"
+  },
+  {
+    "model": "gpt-4o-transcribe-diarize",
+    "input": "$2.50",
+    "output": "$10.00",
+    "estimated_cost": "$0.006 / minute"
+  },
+  {
+    "model": "gpt-4o-mini-transcribe",
+    "input": "$1.25",
+    "output": "$5.00",
+    "estimated_cost": "$0.003 / minute"
+  },
+  {
+    "model": "gpt-4o-mini-tts",
+    "input": "",
+    "output": "$12.00",
+    "estimated_cost": "$0.015 / minute"
+  },
+  {
+    "model": "gpt-4o-transcribe",
+    "input": "$6.00",
+    "output": "",
+    "estimated_cost": "$0.006 / minute"
+  },
+  {
+    "model": "gpt-4o-transcribe-diarize",
+    "input": "$6.00",
+    "output": "",
+    "estimated_cost": "$0.006 / minute"
+  },
+  {
+    "model": "gpt-4o-mini-transcribe",
+    "input": "$3.00",
+    "output": "",
+    "estimated_cost": "$0.003 / minute"
+  },
+  {
+    "model": "Whisper",
+    "use_case": "Transcription",
+    "cost": "$0.006 / minute"
+  },
+  {
+    "model": "TTS",
+    "use_case": "Speech generation",
+    "cost": "$15.00 / 1M characters"
+  },
+  {
+    "model": "TTS HD",
+    "use_case": "Speech generation",
+    "cost": "$30.00 / 1M characters"
   },
   {
     "model": "GPT Image 1.5",
