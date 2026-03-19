@@ -1,90 +1,9 @@
 [
   {
     "": "gpt-5.4",
-    "short_context": "$1.25",
-    "long_context": "$0.13",
-    "model": "$7.50",
-    "input": null,
-    "cached_input": null,
-    "output": null
-  },
-  {
-    "": "gpt-5.4-pro",
-    "short_context": "$15.00",
-    "long_context": "-",
-    "model": "$90.00",
-    "input": null,
-    "cached_input": null,
-    "output": null
-  },
-  {
-    "": "gpt-5.4-mini",
-    "short_context": "$0.375",
-    "long_context": "$0.0375",
-    "model": "$2.25",
-    "input": null,
-    "cached_input": null,
-    "output": null
-  },
-  {
-    "": "gpt-5.4-nano",
-    "short_context": "$0.10",
-    "long_context": "$0.01",
-    "model": "$0.625",
-    "input": null,
-    "cached_input": null,
-    "output": null
-  },
-  {
-    "": "gpt-5.4",
-    "short_context": "$1.25",
-    "long_context": "$0.13",
-    "model": "$7.50",
-    "input": null,
-    "cached_input": null,
-    "output": null
-  },
-  {
-    "": "gpt-5.4-pro",
-    "short_context": "$15.00",
-    "long_context": "-",
-    "model": "$90.00",
-    "input": null,
-    "cached_input": null,
-    "output": null
-  },
-  {
-    "": "gpt-5.4-mini",
-    "short_context": "$0.375",
-    "long_context": "$0.0375",
-    "model": "$2.25",
-    "input": null,
-    "cached_input": null,
-    "output": null
-  },
-  {
-    "": "gpt-5.4-nano",
-    "short_context": "$0.10",
-    "long_context": "$0.01",
-    "model": "$0.625",
-    "input": null,
-    "cached_input": null,
-    "output": null
-  },
-  {
-    "": "gpt-5.4",
     "short_context": "$2.50",
     "long_context": "$0.25",
     "model": "$15.00",
-    "input": null,
-    "cached_input": null,
-    "output": null
-  },
-  {
-    "": "gpt-5.4-pro",
-    "short_context": "$30.00",
-    "long_context": "-",
-    "model": "$180.00",
     "input": null,
     "cached_input": null,
     "output": null
@@ -108,6 +27,87 @@
     "output": null
   },
   {
+    "": "gpt-5.4-pro",
+    "short_context": "$30.00",
+    "long_context": "-",
+    "model": "$180.00",
+    "input": null,
+    "cached_input": null,
+    "output": null
+  },
+  {
+    "": "gpt-5.4",
+    "short_context": "$1.25",
+    "long_context": "$0.13",
+    "model": "$7.50",
+    "input": null,
+    "cached_input": null,
+    "output": null
+  },
+  {
+    "": "gpt-5.4-mini",
+    "short_context": "$0.375",
+    "long_context": "$0.0375",
+    "model": "$2.25",
+    "input": null,
+    "cached_input": null,
+    "output": null
+  },
+  {
+    "": "gpt-5.4-nano",
+    "short_context": "$0.10",
+    "long_context": "$0.01",
+    "model": "$0.625",
+    "input": null,
+    "cached_input": null,
+    "output": null
+  },
+  {
+    "": "gpt-5.4-pro",
+    "short_context": "$15.00",
+    "long_context": "-",
+    "model": "$90.00",
+    "input": null,
+    "cached_input": null,
+    "output": null
+  },
+  {
+    "": "gpt-5.4",
+    "short_context": "$1.25",
+    "long_context": "$0.13",
+    "model": "$7.50",
+    "input": null,
+    "cached_input": null,
+    "output": null
+  },
+  {
+    "": "gpt-5.4-mini",
+    "short_context": "$0.375",
+    "long_context": "$0.0375",
+    "model": "$2.25",
+    "input": null,
+    "cached_input": null,
+    "output": null
+  },
+  {
+    "": "gpt-5.4-nano",
+    "short_context": "$0.10",
+    "long_context": "$0.01",
+    "model": "$0.625",
+    "input": null,
+    "cached_input": null,
+    "output": null
+  },
+  {
+    "": "gpt-5.4-pro",
+    "short_context": "$15.00",
+    "long_context": "-",
+    "model": "$90.00",
+    "input": null,
+    "cached_input": null,
+    "output": null
+  },
+  {
     "": "gpt-5.4",
     "short_context": "$5.00",
     "long_context": "$0.50",
@@ -117,736 +117,563 @@
     "output": null
   },
   {
+    "model": "gpt-realtime-1.5",
+    "modality": "Audio",
+    "input": "$32.00",
+    "cached_input": "$0.40",
+    "output_/_cost": "$64.00"
+  },
+  {
+    "model": "Text",
+    "modality": "$4.00",
+    "input": "$0.40",
+    "cached_input": "$16.00",
+    "output_/_cost": null
+  },
+  {
+    "model": "Image",
+    "modality": "$5.00",
+    "input": "$0.50",
+    "cached_input": "-",
+    "output_/_cost": null
+  },
+  {
+    "model": "gpt-realtime-mini",
+    "modality": "Audio",
+    "input": "$10.00",
+    "cached_input": "$0.30",
+    "output_/_cost": "$20.00"
+  },
+  {
+    "model": "Text",
+    "modality": "$0.60",
+    "input": "$0.06",
+    "cached_input": "$2.40",
+    "output_/_cost": null
+  },
+  {
+    "model": "Image",
+    "modality": "$0.80",
+    "input": "$0.08",
+    "cached_input": "-",
+    "output_/_cost": null
+  },
+  {
     "model": "gpt-image-1.5",
+    "modality": "Image",
     "input": "$8.00",
     "cached_input": "$2.00",
     "output": "$32.00"
   },
   {
+    "model": "Text",
+    "modality": "$5.00",
+    "input": "$1.25",
+    "cached_input": "$10.00",
+    "output": null
+  },
+  {
     "model": "gpt-image-1-mini",
+    "modality": "Image",
     "input": "$2.50",
     "cached_input": "$0.25",
     "output": "$8.00"
   },
   {
+    "model": "Text",
+    "modality": "$2.00",
+    "input": "$0.20",
+    "cached_input": "-",
+    "output": null
+  },
+  {
     "model": "gpt-image-1.5",
+    "modality": "Image",
     "input": "$4.00",
     "cached_input": "$1.00",
     "output": "$16.00"
   },
   {
+    "model": "Text",
+    "modality": "$2.50",
+    "input": "$0.63",
+    "cached_input": "$5.00",
+    "output": null
+  },
+  {
     "model": "gpt-image-1-mini",
+    "modality": "Image",
     "input": "$1.25",
     "cached_input": "$0.13",
     "output": "$4.00"
   },
   {
-    "model": "gpt-realtime-1.5",
-    "input": "$32.00",
-    "cached_input": "$0.40",
-    "output": "$64.00"
-  },
-  {
-    "model": "gpt-realtime-mini",
-    "input": "$10.00",
-    "cached_input": "$0.30",
-    "output": "$20.00"
-  },
-  {
-    "model": "gpt-audio-1.5",
-    "input": "$32.00",
+    "model": "Text",
+    "modality": "$1.00",
+    "input": "$0.10",
     "cached_input": "-",
-    "output": "$64.00"
+    "output": null
   },
   {
     "model": "sora-2",
-    "size:_output_resolution": "Portrait: 720x1280 Landscape: 1280x720",
+    "size": "720p",
+    "portrait": "720x1280",
+    "landscape": "1280x720",
     "price_per_second": "$0.10"
   },
   {
     "model": "sora-2-pro",
-    "size:_output_resolution": "Portrait: 720x1280 Landscape: 1280x720",
+    "size": "720p",
+    "portrait": "720x1280",
+    "landscape": "1280x720",
     "price_per_second": "$0.30"
   },
   {
-    "model": "sora-2-pro",
-    "size:_output_resolution": "Portrait: 1024x1792 Landscape: 1792x1024",
-    "price_per_second": "$0.50"
+    "model": "1024p",
+    "size": "1024x1792",
+    "portrait": "1792x1024",
+    "landscape": "$0.50",
+    "price_per_second": null
   },
   {
-    "model": "sora-2-pro",
-    "size:_output_resolution": "Portrait: 1080x1920 Landscape: 1920x1080",
-    "price_per_second": "$0.70"
+    "model": "1080p",
+    "size": "1080x1920",
+    "portrait": "1920x1080",
+    "landscape": "$0.70",
+    "price_per_second": null
   },
   {
     "model": "sora-2",
-    "size:_output_resolution": "Portrait: 720x1280\nLandscape: 1280x720",
+    "size": "720p",
+    "portrait": "720x1280",
+    "landscape": "1280x720",
     "price_per_second": "$0.05"
   },
   {
     "model": "sora-2-pro",
-    "size:_output_resolution": "Portrait: 720x1280\nLandscape: 1280x720",
+    "size": "720p",
+    "portrait": "720x1280",
+    "landscape": "1280x720",
     "price_per_second": "$0.15"
   },
   {
-    "model": "sora-2-pro",
-    "size:_output_resolution": "Portrait: 1024x1792\nLandscape: 1792x1024",
-    "price_per_second": "$0.25"
+    "model": "1024p",
+    "size": "1024x1792",
+    "portrait": "1792x1024",
+    "landscape": "$0.25",
+    "price_per_second": null
   },
   {
-    "model": "sora-2-pro",
-    "size:_output_resolution": "Portrait: 1080x1920\nLandscape: 1920x1080",
-    "price_per_second": "$0.35"
-  },
-  {
-    "model": "o4-mini-2025-04-16",
-    "training": "$100.00 / hour",
-    "input": "$4.00",
-    "cached_input": "$1.00",
-    "output": "$16.00"
-  },
-  {
-    "model": "o4-mini-2025-04-16\nwith data sharing",
-    "training": "$100.00 / hour",
-    "input": "$2.00",
-    "cached_input": "$0.50",
-    "output": "$8.00"
-  },
-  {
-    "model": "gpt-4.1-2025-04-14",
-    "training": "$25.00",
-    "input": "$3.00",
-    "cached_input": "$0.75",
-    "output": "$12.00"
-  },
-  {
-    "model": "gpt-4.1-mini-2025-04-14",
-    "training": "$5.00",
-    "input": "$0.80",
-    "cached_input": "$0.20",
-    "output": "$3.20"
-  },
-  {
-    "model": "gpt-4.1-nano-2025-04-14",
-    "training": "$1.50",
-    "input": "$0.20",
-    "cached_input": "$0.05",
-    "output": "$0.80"
-  },
-  {
-    "model": "gpt-4o-2024-08-06",
-    "training": "$25.00",
-    "input": "$3.75",
-    "cached_input": "$1.875",
-    "output": "$15.00"
-  },
-  {
-    "model": "gpt-4o-mini-2024-07-18",
-    "training": "$3.00",
-    "input": "$0.30",
-    "cached_input": "$0.15",
-    "output": "$1.20"
-  },
-  {
-    "model": "gpt-3.5-turbo",
-    "training": "$8.00",
-    "input": "$3.00",
-    "cached_input": "-",
-    "output": "$6.00"
-  },
-  {
-    "model": "davinci-002",
-    "training": "$6.00",
-    "input": "$12.00",
-    "cached_input": "-",
-    "output": "$12.00"
-  },
-  {
-    "model": "babbage-002",
-    "training": "$0.40",
-    "input": "$1.60",
-    "cached_input": "-",
-    "output": "$1.60"
-  },
-  {
-    "model": "o4-mini-2025-04-16",
-    "training": "$100.00 / hour",
-    "input": "$2.00",
-    "cached_input": "$0.50",
-    "output": "$8.00"
-  },
-  {
-    "model": "o4-mini-2025-04-16with data sharing",
-    "training": "$100.00 / hour",
-    "input": "$1.00",
-    "cached_input": "$0.25",
-    "output": "$4.00"
-  },
-  {
-    "model": "gpt-4.1-2025-04-14",
-    "training": "$25.00",
-    "input": "$1.50",
-    "cached_input": "$0.50",
-    "output": "$6.00"
-  },
-  {
-    "model": "gpt-4.1-mini-2025-04-14",
-    "training": "$5.00",
-    "input": "$0.40",
-    "cached_input": "$0.10",
-    "output": "$1.60"
-  },
-  {
-    "model": "gpt-4.1-nano-2025-04-14",
-    "training": "$1.50",
-    "input": "$0.10",
-    "cached_input": "$0.025",
-    "output": "$0.40"
-  },
-  {
-    "model": "gpt-4o-2024-08-06",
-    "training": "$25.00",
-    "input": "$2.225",
-    "cached_input": "$0.90",
-    "output": "$12.50"
-  },
-  {
-    "model": "gpt-4o-mini-2024-07-18",
-    "training": "$3.00",
-    "input": "$0.15",
-    "cached_input": "$0.075",
-    "output": "$0.60"
-  },
-  {
-    "model": "gpt-3.5-turbo",
-    "training": "$8.00",
-    "input": "$1.50",
-    "cached_input": "-",
-    "output": "$3.00"
-  },
-  {
-    "model": "davinci-002",
-    "training": "$6.00",
-    "input": "$6.00",
-    "cached_input": "-",
-    "output": "$6.00"
-  },
-  {
-    "model": "babbage-002",
-    "training": "$0.40",
-    "input": "$0.80",
-    "cached_input": "-",
-    "output": "$0.90"
-  },
-  {
-    "tool": "Container usage (including Hosted Shell and Code Interpreter)\nNow",
-    "cost": "1 GB (default): $0.03 / container\n4 GB: $0.12 / container\n16 GB: $0.48 / container\n64 GB: $1.92 / container"
-  },
-  {
-    "tool": "Container usage (including Hosted Shell and Code Interpreter)\nStarting March 31st",
-    "cost": "1 GB (default): $0.03 / 20 minutes / container\n4 GB: $0.12 / 20 minutes / container\n16 GB: $0.48 / 20 minutes / container\n64 GB: $1.92 / 20 minutes / container"
-  },
-  {
-    "tool": "File search storage",
-    "cost": "$0.10 / GB per day (1GB free)"
-  },
-  {
-    "tool": "File search tool call\nResponses API only",
-    "cost": "$2.50 / 1k calls"
-  },
-  {
-    "tool": "Web search (all models)\n[1]",
-    "cost": "$10.00 / 1k calls + search content tokens billed at model rates"
-  },
-  {
-    "tool": "Web search preview (reasoning models, including gpt-5, o-series)",
-    "cost": "$10.00 / 1k calls + search content tokens billed at model rates"
-  },
-  {
-    "tool": "Web search preview (non-reasoning models)",
-    "cost": "$25.00 / 1k calls + search content tokens are free"
-  },
-  {
-    "model": "o4-mini-2025-04-16",
-    "training": "$100.00 / hour",
-    "input": "$2.00",
-    "cached_input": "$0.50",
-    "output": "$8.00"
-  },
-  {
-    "model": "o4-mini-2025-04-16with data sharing",
-    "training": "$100.00 / hour",
-    "input": "$1.00",
-    "cached_input": "$0.25",
-    "output": "$4.00"
-  },
-  {
-    "model": "gpt-4.1-2025-04-14",
-    "training": "$25.00",
-    "input": "$1.50",
-    "cached_input": "$0.50",
-    "output": "$6.00"
-  },
-  {
-    "model": "gpt-4.1-mini-2025-04-14",
-    "training": "$5.00",
-    "input": "$0.40",
-    "cached_input": "$0.10",
-    "output": "$1.60"
-  },
-  {
-    "model": "gpt-4.1-nano-2025-04-14",
-    "training": "$1.50",
-    "input": "$0.10",
-    "cached_input": "$0.025",
-    "output": "$0.40"
-  },
-  {
-    "model": "gpt-4o-2024-08-06",
-    "training": "$25.00",
-    "input": "$2.225",
-    "cached_input": "$0.90",
-    "output": "$12.50"
-  },
-  {
-    "model": "gpt-4o-mini-2024-07-18",
-    "training": "$3.00",
-    "input": "$0.15",
-    "cached_input": "$0.075",
-    "output": "$0.60"
-  },
-  {
-    "model": "gpt-3.5-turbo",
-    "training": "$8.00",
-    "input": "$1.50",
-    "cached_input": "-",
-    "output": "$3.00"
-  },
-  {
-    "model": "davinci-002",
-    "training": "$6.00",
-    "input": "$6.00",
-    "cached_input": "-",
-    "output": "$6.00"
-  },
-  {
-    "model": "babbage-002",
-    "training": "$0.40",
-    "input": "$0.80",
-    "cached_input": "-",
-    "output": "$0.90"
-  },
-  {
-    "model": "o4-mini-2025-04-16",
-    "training": "$100.00 / hour",
-    "input": "$4.00",
-    "cached_input": "$1.00",
-    "output": "$16.00"
-  },
-  {
-    "model": "o4-mini-2025-04-16\nwith data sharing",
-    "training": "$100.00 / hour",
-    "input": "$2.00",
-    "cached_input": "$0.50",
-    "output": "$8.00"
-  },
-  {
-    "model": "gpt-4.1-2025-04-14",
-    "training": "$25.00",
-    "input": "$3.00",
-    "cached_input": "$0.75",
-    "output": "$12.00"
-  },
-  {
-    "model": "gpt-4.1-mini-2025-04-14",
-    "training": "$5.00",
-    "input": "$0.80",
-    "cached_input": "$0.20",
-    "output": "$3.20"
-  },
-  {
-    "model": "gpt-4.1-nano-2025-04-14",
-    "training": "$1.50",
-    "input": "$0.20",
-    "cached_input": "$0.05",
-    "output": "$0.80"
-  },
-  {
-    "model": "gpt-4o-2024-08-06",
-    "training": "$25.00",
-    "input": "$3.75",
-    "cached_input": "$1.875",
-    "output": "$15.00"
-  },
-  {
-    "model": "gpt-4o-mini-2024-07-18",
-    "training": "$3.00",
-    "input": "$0.30",
-    "cached_input": "$0.15",
-    "output": "$1.20"
-  },
-  {
-    "model": "gpt-3.5-turbo",
-    "training": "$8.00",
-    "input": "$3.00",
-    "cached_input": "-",
-    "output": "$6.00"
-  },
-  {
-    "model": "davinci-002",
-    "training": "$6.00",
-    "input": "$12.00",
-    "cached_input": "-",
-    "output": "$12.00"
-  },
-  {
-    "model": "babbage-002",
-    "training": "$0.40",
-    "input": "$1.60",
-    "cached_input": "-",
-    "output": "$1.60"
-  },
-  {
-    "usage_meter": "Storage for ChatKit File / Image Uploads",
-    "free_tier_(per_account,_per_month)": "1 GB",
-    "price_beyond_free_tier": "$0.10 / GB-day"
-  },
-  {
-    "model": "gpt-4o-mini-tts",
-    "input": "$0.60",
-    "output": "-",
-    "estimated_cost": "$0.015 / minute"
+    "model": "1080p",
+    "size": "1080x1920",
+    "portrait": "1920x1080",
+    "landscape": "$0.35",
+    "price_per_second": null
   },
   {
     "model": "gpt-4o-transcribe",
-    "input": "$2.50",
-    "output": "$10.00",
-    "estimated_cost": "$0.006 / minute"
-  },
-  {
-    "model": "gpt-4o-transcribe-diarize",
+    "use_case": "Transcription",
     "input": "$2.50",
     "output": "$10.00",
     "estimated_cost": "$0.006 / minute"
   },
   {
     "model": "gpt-4o-mini-transcribe",
+    "use_case": "Transcription",
     "input": "$1.25",
     "output": "$5.00",
     "estimated_cost": "$0.003 / minute"
   },
   {
-    "model": "gpt-4o-mini-tts",
+    "tool": "Web search",
+    "details": "gpt-4o and gpt-4.1 models",
+    "pricing": "$10.00 / 1k calls\nSearch content tokens billed at model rates."
+  },
+  {
+    "tool": "Reasoning models, including gpt-5 and newer",
+    "details": "$25.00 / 1k calls\nSearch content tokens are free.",
+    "pricing": null
+  },
+  {
+    "tool": "Containers",
+    "details": "Now",
+    "pricing": "1 GB $0.03, 4 GB $0.12, 16 GB $0.48, 64 GB $1.92 per container"
+  },
+  {
+    "tool": "Starting March 31, 2026",
+    "details": "1 GB $0.03, 4 GB $0.12, 16 GB $0.48, 64 GB $1.92 per 20-minute session per container",
+    "pricing": null
+  },
+  {
+    "tool": "File search",
+    "details": "Storage",
+    "pricing": "$0.10 / GB per day (1 GB free)"
+  },
+  {
+    "tool": "Tool call",
+    "details": "$2.50 / 1k calls",
+    "pricing": null
+  },
+  {
+    "tool": "Agent Kit",
+    "details": "ChatKit file and image upload storage",
+    "pricing": "$0.10 / GB-day after 1 GB free per account per month"
+  },
+  {
+    "category": "ChatGPT",
+    "model": "gpt-5.3-chat-latest",
+    "input": "$1.75",
+    "cached_input": "$0.175",
+    "output": "$14.00"
+  },
+  {
+    "category": "gpt-5.2-chat-latest",
+    "model": "$1.75",
+    "input": "$0.175",
+    "cached_input": "$14.00",
+    "output": null
+  },
+  {
+    "category": "gpt-5.1-chat-latest",
+    "model": "$1.25",
+    "input": "$0.125",
+    "cached_input": "$10.00",
+    "output": null
+  },
+  {
+    "category": "gpt-5-chat-latest",
+    "model": "$1.25",
+    "input": "$0.125",
+    "cached_input": "$10.00",
+    "output": null
+  },
+  {
+    "category": "chatgpt-4o-latest",
+    "model": "$5.00",
     "input": "-",
-    "output": "$12.00",
-    "estimated_cost": "$0.015 / minute"
+    "cached_input": "$15.00",
+    "output": null
   },
   {
-    "model": "gpt-4o-transcribe",
-    "input": "$6.00",
-    "output": "-",
-    "estimated_cost": "$0.006 / minute"
+    "category": "Codex",
+    "model": "gpt-5.3-codex",
+    "input": "$1.75",
+    "cached_input": "$0.175",
+    "output": "$14.00"
   },
   {
-    "model": "gpt-4o-transcribe-diarize",
-    "input": "$6.00",
-    "output": "-",
-    "estimated_cost": "$0.006 / minute"
+    "category": "gpt-5.2-codex",
+    "model": "$1.75",
+    "input": "$0.175",
+    "cached_input": "$14.00",
+    "output": null
   },
   {
-    "model": "gpt-4o-mini-transcribe",
+    "category": "gpt-5.1-codex-max",
+    "model": "$1.25",
+    "input": "$0.125",
+    "cached_input": "$10.00",
+    "output": null
+  },
+  {
+    "category": "gpt-5.1-codex",
+    "model": "$1.25",
+    "input": "$0.125",
+    "cached_input": "$10.00",
+    "output": null
+  },
+  {
+    "category": "gpt-5-codex",
+    "model": "$1.25",
+    "input": "$0.125",
+    "cached_input": "$10.00",
+    "output": null
+  },
+  {
+    "category": "gpt-5.1-codex-mini",
+    "model": "$0.25",
+    "input": "$0.025",
+    "cached_input": "$2.00",
+    "output": null
+  },
+  {
+    "category": "codex-mini-latest",
+    "model": "$1.50",
+    "input": "$0.375",
+    "cached_input": "$6.00",
+    "output": null
+  },
+  {
+    "category": "Search",
+    "model": "gpt-5-search-api",
+    "input": "$1.25",
+    "cached_input": "$0.125",
+    "output": "$10.00"
+  },
+  {
+    "category": "gpt-4o-search-preview",
+    "model": "$2.50",
+    "input": "-",
+    "cached_input": "$10.00",
+    "output": null
+  },
+  {
+    "category": "gpt-4o-mini-search-preview",
+    "model": "$0.15",
+    "input": "-",
+    "cached_input": "$0.60\nWeb search tool call charges also apply.",
+    "output": null
+  },
+  {
+    "category": "Deep research",
+    "model": "o3-deep-research",
+    "input": "$10.00",
+    "cached_input": "$2.50",
+    "output": "$40.00"
+  },
+  {
+    "category": "o4-mini-deep-research",
+    "model": "$2.00",
+    "input": "$0.50",
+    "cached_input": "$8.00",
+    "output": null
+  },
+  {
+    "category": "Computer use",
+    "model": "computer-use-preview",
     "input": "$3.00",
-    "output": "-",
-    "estimated_cost": "$0.003 / minute"
+    "cached_input": "-",
+    "output": "$12.00"
   },
   {
-    "model": "Whisper",
-    "use_case": "Transcription",
-    "cost": "$0.006 / minute"
-  },
-  {
-    "model": "TTS",
-    "use_case": "Speech generation",
-    "cost": "$15.00 / 1M characters"
-  },
-  {
-    "model": "TTS HD",
-    "use_case": "Speech generation",
-    "cost": "$30.00 / 1M characters"
-  },
-  {
-    "model": "GPT Image 1.5",
-    "quality": "Low",
-    "1024_x_1024": "$0.009",
-    "1024_x_1536": "$0.013",
-    "1536_x_1024": "$0.013"
-  },
-  {
-    "model": "Medium",
-    "quality": "$0.034",
-    "1024_x_1024": "$0.05",
-    "1024_x_1536": "$0.05",
-    "1536_x_1024": null
-  },
-  {
-    "model": "High",
-    "quality": "$0.133",
-    "1024_x_1024": "$0.2",
-    "1024_x_1536": "$0.2",
-    "1536_x_1024": null
-  },
-  {
-    "model": "GPT Image Latest",
-    "quality": "Low",
-    "1024_x_1024": "$0.009",
-    "1024_x_1536": "$0.013",
-    "1536_x_1024": "$0.013"
-  },
-  {
-    "model": "Medium",
-    "quality": "$0.034",
-    "1024_x_1024": "$0.05",
-    "1024_x_1536": "$0.05",
-    "1536_x_1024": null
-  },
-  {
-    "model": "High",
-    "quality": "$0.133",
-    "1024_x_1024": "$0.2",
-    "1024_x_1536": "$0.2",
-    "1536_x_1024": null
-  },
-  {
-    "model": "GPT Image 1",
-    "quality": "Low",
-    "1024_x_1024": "$0.011",
-    "1024_x_1536": "$0.016",
-    "1536_x_1024": "$0.016"
-  },
-  {
-    "model": "Medium",
-    "quality": "$0.042",
-    "1024_x_1024": "$0.063",
-    "1024_x_1536": "$0.063",
-    "1536_x_1024": null
-  },
-  {
-    "model": "High",
-    "quality": "$0.167",
-    "1024_x_1024": "$0.25",
-    "1024_x_1536": "$0.25",
-    "1536_x_1024": null
-  },
-  {
-    "model": "GPT Image 1 Mini",
-    "quality": "Low",
-    "1024_x_1024": "$0.005",
-    "1024_x_1536": "$0.006",
-    "1536_x_1024": "$0.006"
-  },
-  {
-    "model": "Medium",
-    "quality": "$0.011",
-    "1024_x_1024": "$0.015",
-    "1024_x_1536": "$0.015",
-    "1536_x_1024": null
-  },
-  {
-    "model": "High",
-    "quality": "$0.036",
-    "1024_x_1024": "$0.052",
-    "1024_x_1536": "$0.052",
-    "1536_x_1024": null
-  },
-  {
-    "model": "DALL·E 3",
-    "quality": "Standard",
-    "1024_x_1024": "$0.04",
-    "1024_x_1792": "$0.08",
-    "1792_x_1024": "$0.08"
-  },
-  {
-    "model": "HD",
-    "quality": "$0.08",
-    "1024_x_1024": "$0.12",
-    "1024_x_1792": "$0.12",
-    "1792_x_1024": null
-  },
-  {
-    "model": "DALL·E 2",
-    "quality": "Standard",
-    "256_x_256": "$0.016",
-    "512_x_512": "$0.018",
-    "1024_x_1024": "$0.02"
-  },
-  {
+    "category": "Embedding",
     "model": "text-embedding-3-small",
-    "cost": "$0.02",
-    "batch_cost": "$0.01"
+    "input": "$0.02",
+    "cached_input": "-",
+    "output": "-"
   },
   {
-    "model": "text-embedding-3-large",
-    "cost": "$0.13",
-    "batch_cost": "$0.065"
+    "category": "text-embedding-3-large",
+    "model": "$0.13",
+    "input": "-",
+    "cached_input": "-",
+    "output": null
   },
   {
-    "model": "text-embedding-ada-002",
-    "cost": "$0.10",
-    "batch_cost": "$0.05"
+    "category": "text-embedding-ada-002",
+    "model": "$0.10",
+    "input": "-",
+    "cached_input": "-",
+    "output": null
   },
   {
-    "model": "chatgpt-4o-latest",
+    "category": "Moderation",
+    "model": "omni-moderation-latest",
+    "input": "Free",
+    "cached_input": "-",
+    "output": "-"
+  },
+  {
+    "category": "text-moderation-latest",
+    "model": "Free",
+    "input": "-",
+    "cached_input": "-",
+    "output": null
+  },
+  {
+    "category": "Deep research",
+    "model": "o3-deep-research",
     "input": "$5.00",
+    "cached_input": "-",
+    "output": "$20.00"
+  },
+  {
+    "category": "o4-mini-deep-research",
+    "model": "$1.00",
+    "input": "-",
+    "cached_input": "$4.00",
+    "output": null
+  },
+  {
+    "category": "Computer use",
+    "model": "computer-use-preview",
+    "input": "$1.50",
+    "cached_input": "-",
+    "output": "$6.00"
+  },
+  {
+    "category": "Codex",
+    "model": "gpt-5.3-codex",
+    "input": "$3.50",
+    "cached_input": "$0.35",
+    "output": "$28.00"
+  },
+  {
+    "category": "gpt-5.2-codex",
+    "model": "$3.50",
+    "input": "$0.35",
+    "cached_input": "$28.00",
+    "output": null
+  },
+  {
+    "category": "gpt-5.1-codex-max",
+    "model": "$2.50",
+    "input": "$0.25",
+    "cached_input": "$20.00",
+    "output": null
+  },
+  {
+    "category": "gpt-5.1-codex",
+    "model": "$2.50",
+    "input": "$0.25",
+    "cached_input": "$20.00",
+    "output": null
+  },
+  {
+    "category": "gpt-5-codex",
+    "model": "$2.50",
+    "input": "$0.25",
+    "cached_input": "$20.00",
+    "output": null
+  },
+  {
+    "model": "o4-mini-2025-04-16",
+    "training": "$100.00 / hour",
+    "input": "$4.00",
+    "cached_input": "$1.00",
+    "output": "$16.00"
+  },
+  {
+    "model": "o4-mini-2025-04-16\nwith data sharing",
+    "training": "$100.00 / hour",
+    "input": "$2.00",
+    "cached_input": "$0.50",
+    "output": "$8.00"
+  },
+  {
+    "model": "gpt-4.1-2025-04-14",
+    "training": "$25.00",
+    "input": "$3.00",
+    "cached_input": "$0.75",
+    "output": "$12.00"
+  },
+  {
+    "model": "gpt-4.1-mini-2025-04-14",
+    "training": "$5.00",
+    "input": "$0.80",
+    "cached_input": "$0.20",
+    "output": "$3.20"
+  },
+  {
+    "model": "gpt-4.1-nano-2025-04-14",
+    "training": "$1.50",
+    "input": "$0.20",
+    "cached_input": "$0.05",
+    "output": "$0.80"
+  },
+  {
+    "model": "gpt-4o-2024-08-06",
+    "training": "$25.00",
+    "input": "$3.75",
+    "cached_input": "$1.875",
     "output": "$15.00"
   },
   {
-    "model": "gpt-4-turbo-2024-04-09",
-    "input": "$10.00",
-    "output": "$30.00"
+    "model": "gpt-4o-mini-2024-07-18",
+    "training": "$3.00",
+    "input": "$0.30",
+    "cached_input": "$0.15",
+    "output": "$1.20"
   },
   {
-    "model": "gpt-4-0125-preview",
-    "input": "$10.00",
-    "output": "$30.00"
-  },
-  {
-    "model": "gpt-4-1106-preview",
-    "input": "$10.00",
-    "output": "$30.00"
-  },
-  {
-    "model": "gpt-4-1106-vision-preview",
-    "input": "$10.00",
-    "output": "$30.00"
-  },
-  {
-    "model": "gpt-4-0613",
-    "input": "$30.00",
-    "output": "$60.00"
-  },
-  {
-    "model": "gpt-4-0314",
-    "input": "$30.00",
-    "output": "$60.00"
-  },
-  {
-    "model": "gpt-4-32k",
-    "input": "$60.00",
-    "output": "$120.00"
-  },
-  {
-    "model": "gpt-3.5-turbo",
-    "input": "$0.50",
-    "output": "$1.50"
-  },
-  {
-    "model": "gpt-3.5-turbo-0125",
-    "input": "$0.50",
-    "output": "$1.50"
-  },
-  {
-    "model": "gpt-3.5-turbo-1106",
-    "input": "$1.00",
-    "output": "$2.00"
-  },
-  {
-    "model": "gpt-3.5-turbo-0613",
-    "input": "$1.50",
-    "output": "$2.00"
-  },
-  {
-    "model": "gpt-3.5-0301",
-    "input": "$1.50",
-    "output": "$2.00"
-  },
-  {
-    "model": "gpt-3.5-turbo-instruct",
-    "input": "$1.50",
-    "output": "$2.00"
-  },
-  {
-    "model": "gpt-3.5-turbo-16k-0613",
+    "model": "gpt-3.5-turbo\nLegacy",
+    "training": "$8.00",
     "input": "$3.00",
+    "cached_input": "-",
+    "output": "$6.00"
+  },
+  {
+    "model": "davinci-002\nLegacy",
+    "training": "$6.00",
+    "input": "$12.00",
+    "cached_input": "-",
+    "output": "$12.00"
+  },
+  {
+    "model": "babbage-002\nLegacy",
+    "training": "$0.40",
+    "input": "$1.60",
+    "cached_input": "-",
+    "output": "$1.60"
+  },
+  {
+    "model": "o4-mini-2025-04-16",
+    "training": "$100.00 / hour",
+    "input": "$2.00",
+    "cached_input": "$0.50",
+    "output": "$8.00"
+  },
+  {
+    "model": "o4-mini-2025-04-16with data sharing",
+    "training": "$100.00 / hour",
+    "input": "$1.00",
+    "cached_input": "$0.25",
     "output": "$4.00"
   },
   {
-    "model": "davinci-002",
-    "input": "$2.00",
-    "output": "$2.00"
+    "model": "gpt-4.1-2025-04-14",
+    "training": "$25.00",
+    "input": "$1.50",
+    "cached_input": "$0.50",
+    "output": "$6.00"
   },
   {
-    "model": "babbage-002",
+    "model": "gpt-4.1-mini-2025-04-14",
+    "training": "$5.00",
     "input": "$0.40",
+    "cached_input": "$0.10",
+    "output": "$1.60"
+  },
+  {
+    "model": "gpt-4.1-nano-2025-04-14",
+    "training": "$1.50",
+    "input": "$0.10",
+    "cached_input": "$0.025",
     "output": "$0.40"
   },
   {
-    "model": "gpt-4-turbo-2024-04-09",
-    "input": "$5.00",
-    "output": "$15.00"
+    "model": "gpt-4o-2024-08-06",
+    "training": "$25.00",
+    "input": "$2.225",
+    "cached_input": "$0.90",
+    "output": "$12.50"
   },
   {
-    "model": "gpt-4-0125-preview",
-    "input": "$5.00",
-    "output": "$15.00"
+    "model": "gpt-4o-mini-2024-07-18",
+    "training": "$3.00",
+    "input": "$0.15",
+    "cached_input": "$0.075",
+    "output": "$0.60"
   },
   {
-    "model": "gpt-4-1106-preview",
-    "input": "$5.00",
-    "output": "$15.00"
-  },
-  {
-    "model": "gpt-4-1106-vision-preview",
-    "input": "$5.00",
-    "output": "$15.00"
-  },
-  {
-    "model": "gpt-4-0613",
-    "input": "$15.00",
-    "output": "$30.00"
-  },
-  {
-    "model": "gpt-4-0314",
-    "input": "$15.00",
-    "output": "$30.00"
-  },
-  {
-    "model": "gpt-4-32k",
-    "input": "$30.00",
-    "output": "$60.00"
-  },
-  {
-    "model": "gpt-3.5-turbo-0125",
-    "input": "$0.25",
-    "output": "$0.75"
-  },
-  {
-    "model": "gpt-3.5-turbo-1106",
-    "input": "$1.00",
-    "output": "$2.00"
-  },
-  {
-    "model": "gpt-3.5-turbo-0613",
+    "model": "gpt-3.5-turboLegacy",
+    "training": "$8.00",
     "input": "$1.50",
-    "output": "$2.00"
+    "cached_input": "-",
+    "output": "$3.00"
   },
   {
-    "model": "gpt-3.5-0301",
-    "input": "$1.50",
-    "output": "$2.00"
+    "model": "davinci-002Legacy",
+    "training": "$6.00",
+    "input": "$6.00",
+    "cached_input": "-",
+    "output": "$6.00"
   },
   {
-    "model": "gpt-3.5-turbo-16k-0613",
-    "input": "$1.50",
-    "output": "$2.00"
-  },
-  {
-    "model": "davinci-002",
-    "input": "$1.00",
-    "output": "$1.00"
-  },
-  {
-    "model": "babbage-002",
-    "input": "$0.20",
-    "output": "$0.20"
+    "model": "babbage-002Legacy",
+    "training": "$0.40",
+    "input": "$0.80",
+    "cached_input": "-",
+    "output": "$0.90"
   }
 ]
