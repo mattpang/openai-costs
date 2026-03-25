@@ -117,6 +117,15 @@
     "output": null
   },
   {
+    "": "gpt-5.4-mini",
+    "short_context": "$1.50",
+    "long_context": "$0.15",
+    "model": "$9.00",
+    "input": null,
+    "cached_input": null,
+    "output": null
+  },
+  {
     "model": "gpt-realtime-1.5",
     "modality": "Audio",
     "input": "$32.00",
