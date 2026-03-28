@@ -295,12 +295,17 @@
   },
   {
     "tool": "Web search",
-    "details": "gpt-4o and gpt-4.1 models",
-    "pricing": "$25.00 / 1k calls\nSearch content tokens billed at model rates."
+    "details": "Web search (all models)",
+    "pricing": "$10.00 / 1k calls\n+ Search content tokens billed at model rates."
   },
   {
-    "tool": "Reasoning models, including gpt-5 and newer",
-    "details": "$10.00 / 1k calls\nSearch content tokens are free.",
+    "tool": "Web search preview (reasoning models, including gpt-5, o-series)",
+    "details": "$10.00 / 1k calls\n+ Search content tokens billed at model rates.",
+    "pricing": null
+  },
+  {
+    "tool": "Web search preview (non-reasoning models)",
+    "details": "$25.00 / 1k calls\n+ Search content tokens are free.",
     "pricing": null
   },
   {
