@@ -168,6 +168,20 @@
     "output_/_cost": null
   },
   {
+    "model": "gpt-image-2",
+    "modality": "Image",
+    "input": "$8.00",
+    "cached_input": "$2.00",
+    "output": "$30.00"
+  },
+  {
+    "model": "Text",
+    "modality": "$5.00",
+    "input": "$1.25",
+    "cached_input": "-",
+    "output": null
+  },
+  {
     "model": "gpt-image-1.5",
     "modality": "Image",
     "input": "$8.00",
@@ -192,6 +206,20 @@
     "model": "Text",
     "modality": "$2.00",
     "input": "$0.20",
+    "cached_input": "-",
+    "output": null
+  },
+  {
+    "model": "gpt-image-2",
+    "modality": "Image",
+    "input": "$4.00",
+    "cached_input": "$1.00",
+    "output": "$15.00"
+  },
+  {
+    "model": "Text",
+    "modality": "$2.50",
+    "input": "$0.625",
     "cached_input": "-",
     "output": null
   },
