@@ -1,5 +1,23 @@
 [
   {
+    "": "gpt-5.5",
+    "short_context": "$5.00",
+    "long_context": "$0.50",
+    "model": "$30.00",
+    "input": null,
+    "cached_input": null,
+    "output": null
+  },
+  {
+    "": "gpt-5.5-pro",
+    "short_context": "$30.00",
+    "long_context": "-",
+    "model": "$180.00",
+    "input": null,
+    "cached_input": null,
+    "output": null
+  },
+  {
     "": "gpt-5.4",
     "short_context": "$2.50",
     "long_context": "$0.25",
@@ -36,34 +54,16 @@
     "output": null
   },
   {
-    "": "gpt-5.4",
-    "short_context": "$1.25",
-    "long_context": "$0.13",
-    "model": "$7.50",
+    "": "gpt-5.5",
+    "short_context": "$2.50",
+    "long_context": "$0.25",
+    "model": "$15.00",
     "input": null,
     "cached_input": null,
     "output": null
   },
   {
-    "": "gpt-5.4-mini",
-    "short_context": "$0.375",
-    "long_context": "$0.0375",
-    "model": "$2.25",
-    "input": null,
-    "cached_input": null,
-    "output": null
-  },
-  {
-    "": "gpt-5.4-nano",
-    "short_context": "$0.10",
-    "long_context": "$0.01",
-    "model": "$0.625",
-    "input": null,
-    "cached_input": null,
-    "output": null
-  },
-  {
-    "": "gpt-5.4-pro",
+    "": "gpt-5.5-pro",
     "short_context": "$15.00",
     "long_context": "-",
     "model": "$90.00",
@@ -103,6 +103,69 @@
     "short_context": "$15.00",
     "long_context": "-",
     "model": "$90.00",
+    "input": null,
+    "cached_input": null,
+    "output": null
+  },
+  {
+    "": "gpt-5.5",
+    "short_context": "$2.50",
+    "long_context": "$0.25",
+    "model": "$15.00",
+    "input": null,
+    "cached_input": null,
+    "output": null
+  },
+  {
+    "": "gpt-5.5-pro",
+    "short_context": "$15.00",
+    "long_context": "-",
+    "model": "$90.00",
+    "input": null,
+    "cached_input": null,
+    "output": null
+  },
+  {
+    "": "gpt-5.4",
+    "short_context": "$1.25",
+    "long_context": "$0.13",
+    "model": "$7.50",
+    "input": null,
+    "cached_input": null,
+    "output": null
+  },
+  {
+    "": "gpt-5.4-mini",
+    "short_context": "$0.375",
+    "long_context": "$0.0375",
+    "model": "$2.25",
+    "input": null,
+    "cached_input": null,
+    "output": null
+  },
+  {
+    "": "gpt-5.4-nano",
+    "short_context": "$0.10",
+    "long_context": "$0.01",
+    "model": "$0.625",
+    "input": null,
+    "cached_input": null,
+    "output": null
+  },
+  {
+    "": "gpt-5.4-pro",
+    "short_context": "$15.00",
+    "long_context": "-",
+    "model": "$90.00",
+    "input": null,
+    "cached_input": null,
+    "output": null
+  },
+  {
+    "": "gpt-5.5",
+    "short_context": "$12.50",
+    "long_context": "$1.25",
+    "model": "$75.00",
     "input": null,
     "cached_input": null,
     "output": null
