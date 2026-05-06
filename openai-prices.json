@@ -421,10 +421,10 @@
   },
   {
     "category": "ChatGPT",
-    "model": "gpt-5.3-chat-latest",
-    "input": "$1.75",
-    "cached_input": "$0.175",
-    "output": "$14.00"
+    "model": "chat-latest",
+    "input": "$5.00",
+    "cached_input": "$0.50",
+    "output": "$30.00"
   },
   {
     "category": "Codex",
