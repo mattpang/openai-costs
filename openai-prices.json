@@ -189,6 +189,34 @@
     "output": null
   },
   {
+    "model": "gpt-realtime-2",
+    "modality": "Audio",
+    "input": "$32.00",
+    "cached_input": "$0.40",
+    "output_/_cost": "$64.00"
+  },
+  {
+    "model": "Text",
+    "modality": "$4.00",
+    "input": "$0.40",
+    "cached_input": "$24.00",
+    "output_/_cost": null
+  },
+  {
+    "model": "Image",
+    "modality": "$5.00",
+    "input": "$0.50",
+    "cached_input": "-",
+    "output_/_cost": null
+  },
+  {
+    "model": "gpt-realtime-translate",
+    "modality": "Audio",
+    "input": "-",
+    "cached_input": "-",
+    "output_/_cost": "$0.034 / minute"
+  },
+  {
     "model": "gpt-realtime-1.5",
     "modality": "Audio",
     "input": "$32.00",
