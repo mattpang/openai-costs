@@ -462,6 +462,13 @@
     "output": "$14.00"
   },
   {
+    "category": "Cyber",
+    "model": "gpt-5.4-cyber",
+    "input": "-",
+    "cached_input": "-",
+    "output": "-"
+  },
+  {
     "category": "Deep research",
     "model": "o3-deep-research",
     "input": "$5.00",
