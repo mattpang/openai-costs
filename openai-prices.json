@@ -217,46 +217,11 @@
     "output_/_cost": "$0.034 / minute"
   },
   {
-    "model": "gpt-realtime-1.5",
+    "model": "gpt-realtime-whisper",
     "modality": "Audio",
-    "input": "$32.00",
-    "cached_input": "$0.40",
-    "output_/_cost": "$64.00"
-  },
-  {
-    "model": "Text",
-    "modality": "$4.00",
-    "input": "$0.40",
-    "cached_input": "$16.00",
-    "output_/_cost": null
-  },
-  {
-    "model": "Image",
-    "modality": "$5.00",
-    "input": "$0.50",
+    "input": "-",
     "cached_input": "-",
-    "output_/_cost": null
-  },
-  {
-    "model": "gpt-realtime-mini",
-    "modality": "Audio",
-    "input": "$10.00",
-    "cached_input": "$0.30",
-    "output_/_cost": "$20.00"
-  },
-  {
-    "model": "Text",
-    "modality": "$0.60",
-    "input": "$0.06",
-    "cached_input": "$2.40",
-    "output_/_cost": null
-  },
-  {
-    "model": "Image",
-    "modality": "$0.80",
-    "input": "$0.08",
-    "cached_input": "-",
-    "output_/_cost": null
+    "output_/_cost": "$0.017 / minute"
   },
   {
     "model": "gpt-image-2",
@@ -430,7 +395,7 @@
   {
     "tool": "Containers",
     "details": "Hosted Shell and Code Interpreter",
-    "pricing": "1 GB $0.03, 4 GB $0.12, 16 GB $0.48, 64 GB $1.92 - container sessions will be billed by the minute, with a 5-minute minimum per session."
+    "pricing": "1 GB $0.03, 4 GB $0.12, 16 GB $0.48, 64 GB $1.92 per 20-minute session per container."
   },
   {
     "tool": "File search",
