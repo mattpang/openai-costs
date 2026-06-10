@@ -383,6 +383,11 @@
     "pricing": "$10.00 / 1k calls\n+ Search content tokens billed at model rates."
   },
   {
+    "tool": "Image Web search (all models)",
+    "details": "$10.00 / 1k calls\n+ Search content tokens billed at model rates.",
+    "pricing": null
+  },
+  {
     "tool": "Web search preview (reasoning models, including gpt-5, o-series)",
     "details": "$10.00 / 1k calls\n+ Search content tokens billed at model rates.",
     "pricing": null
