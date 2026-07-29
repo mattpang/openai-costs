@@ -373,6 +373,13 @@
     "output_/_cost": "$0.034 / minute"
   },
   {
+    "model": "gpt-live-transcribe",
+    "modality": "Audio",
+    "input": "-",
+    "cached_input": "-",
+    "output_/_cost": "$0.017 / minute"
+  },
+  {
     "model": "gpt-realtime-whisper",
     "modality": "Audio",
     "input": "-",
@@ -518,6 +525,20 @@
     "portrait": "1920x1080",
     "landscape": "$0.35",
     "price_per_second": null
+  },
+  {
+    "model": "gpt-transcribe",
+    "use_case": "Transcription",
+    "input": "-",
+    "output": "-",
+    "estimated_cost": "$0.0045 / minute"
+  },
+  {
+    "model": "gpt-live-transcribe",
+    "use_case": "Live transcription",
+    "input": "-",
+    "output": "-",
+    "estimated_cost": "$0.017 / minute"
   },
   {
     "model": "gpt-4o-transcribe",
