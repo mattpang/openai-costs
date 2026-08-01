@@ -616,27 +616,6 @@
     "output": "-"
   },
   {
-    "category": "Deep research",
-    "model": "o3-deep-research",
-    "input": "$5.00",
-    "cached_input": "-",
-    "output": "$20.00"
-  },
-  {
-    "category": "o4-mini-deep-research",
-    "model": "$1.00",
-    "input": "-",
-    "cached_input": "$4.00",
-    "output": null
-  },
-  {
-    "category": "Computer use",
-    "model": "computer-use-preview",
-    "input": "$1.50",
-    "cached_input": "-",
-    "output": "$6.00"
-  },
-  {
     "category": "Codex",
     "model": "gpt-5.3-codex",
     "input": "$3.50",
