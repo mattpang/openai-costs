@@ -30,66 +30,6 @@
     "output": null
   },
   {
-    "": "gpt-5.5",
-    "short_context": "$5.00",
-    "long_context": "$0.50",
-    "model": "-",
-    "input": "$45.00",
-    "cached_input": null,
-    "cache_writes": null,
-    "output": null
-  },
-  {
-    "": "gpt-5.5-pro",
-    "short_context": "$30.00",
-    "long_context": "-",
-    "model": "-",
-    "input": "$270.00",
-    "cached_input": null,
-    "cache_writes": null,
-    "output": null
-  },
-  {
-    "": "gpt-5.4",
-    "short_context": "$2.50",
-    "long_context": "$0.25",
-    "model": "-",
-    "input": "$22.50",
-    "cached_input": null,
-    "cache_writes": null,
-    "output": null
-  },
-  {
-    "": "gpt-5.4-mini",
-    "short_context": "$0.75",
-    "long_context": "$0.075",
-    "model": "-",
-    "input": "-",
-    "cached_input": null,
-    "cache_writes": null,
-    "output": null
-  },
-  {
-    "": "gpt-5.4-nano",
-    "short_context": "$0.20",
-    "long_context": "$0.02",
-    "model": "-",
-    "input": "-",
-    "cached_input": null,
-    "cache_writes": null,
-    "output": null
-  },
-  {
-    "": "gpt-5.4-pro",
-    "short_context": "$30.00",
-    "long_context": "-",
-    "model": "-",
-    "input": "$270.00",
-    "cached_input": null,
-    "cache_writes": null,
-    "output": null
-  },
-  {
     "": "gpt-5.6-sol",
     "short_context": "$2.50",
     "long_context": "$0.25",
@@ -120,66 +60,6 @@
     "output": null
   },
   {
-    "": "gpt-5.5",
-    "short_context": "$2.50",
-    "long_context": "$0.25",
-    "model": "-",
-    "input": "$22.50",
-    "cached_input": null,
-    "cache_writes": null,
-    "output": null
-  },
-  {
-    "": "gpt-5.5-pro",
-    "short_context": "$15.00",
-    "long_context": "-",
-    "model": "-",
-    "input": "-",
-    "cached_input": null,
-    "cache_writes": null,
-    "output": null
-  },
-  {
-    "": "gpt-5.4",
-    "short_context": "$1.25",
-    "long_context": "$0.13",
-    "model": "-",
-    "input": "$11.25",
-    "cached_input": null,
-    "cache_writes": null,
-    "output": null
-  },
-  {
-    "": "gpt-5.4-mini",
-    "short_context": "$0.375",
-    "long_context": "$0.0375",
-    "model": "-",
-    "input": "-",
-    "cached_input": null,
-    "cache_writes": null,
-    "output": null
-  },
-  {
-    "": "gpt-5.4-nano",
-    "short_context": "$0.10",
-    "long_context": "$0.01",
-    "model": "-",
-    "input": "-",
-    "cached_input": null,
-    "cache_writes": null,
-    "output": null
-  },
-  {
-    "": "gpt-5.4-pro",
-    "short_context": "$15.00",
-    "long_context": "-",
-    "model": "-",
-    "input": "$135.00",
-    "cached_input": null,
-    "cache_writes": null,
-    "output": null
-  },
-  {
     "": "gpt-5.6-sol",
     "short_context": "$2.50",
     "long_context": "$0.25",
@@ -205,66 +85,6 @@
     "long_context": "$0.01",
     "model": "$0.125",
     "input": "$0.90",
-    "cached_input": null,
-    "cache_writes": null,
-    "output": null
-  },
-  {
-    "": "gpt-5.5",
-    "short_context": "$2.50",
-    "long_context": "$0.25",
-    "model": "-",
-    "input": "$22.50",
-    "cached_input": null,
-    "cache_writes": null,
-    "output": null
-  },
-  {
-    "": "gpt-5.5-pro",
-    "short_context": "$15.00",
-    "long_context": "-",
-    "model": "-",
-    "input": "-",
-    "cached_input": null,
-    "cache_writes": null,
-    "output": null
-  },
-  {
-    "": "gpt-5.4",
-    "short_context": "$1.25",
-    "long_context": "$0.13",
-    "model": "-",
-    "input": "$11.25",
-    "cached_input": null,
-    "cache_writes": null,
-    "output": null
-  },
-  {
-    "": "gpt-5.4-mini",
-    "short_context": "$0.375",
-    "long_context": "$0.0375",
-    "model": "-",
-    "input": "-",
-    "cached_input": null,
-    "cache_writes": null,
-    "output": null
-  },
-  {
-    "": "gpt-5.4-nano",
-    "short_context": "$0.10",
-    "long_context": "$0.01",
-    "model": "-",
-    "input": "-",
-    "cached_input": null,
-    "cache_writes": null,
-    "output": null
-  },
-  {
-    "": "gpt-5.4-pro",
-    "short_context": "$15.00",
-    "long_context": "-",
-    "model": "-",
-    "input": "$135.00",
     "cached_input": null,
     "cache_writes": null,
     "output": null
@@ -300,30 +120,20 @@
     "output": null
   },
   {
-    "": "gpt-5.5",
-    "short_context": "$12.50",
-    "long_context": "$1.25",
-    "model": "-",
-    "input": "-",
-    "cached_input": null,
-    "cache_writes": null,
-    "output": null
-  },
-  {
-    "": "gpt-5.4",
+    "": "gpt-5.6-sol",
     "short_context": "$5.00",
     "long_context": "$0.50",
-    "model": "-",
-    "input": "-",
+    "model": "$6.25",
+    "input": "$45.00",
     "cached_input": null,
     "cache_writes": null,
     "output": null
   },
   {
-    "": "gpt-5.4-mini",
-    "short_context": "$1.50",
-    "long_context": "$0.15",
-    "model": "-",
+    "": "gpt-5.6-cyber",
+    "short_context": "$12.50",
+    "long_context": "$1.25",
+    "model": "$15.625",
     "input": "-",
     "cached_input": null,
     "cache_writes": null,
@@ -372,27 +182,6 @@
     "output_/_cost": null
   },
   {
-    "model": "gpt-realtime-translate",
-    "modality": "Audio",
-    "input": "-",
-    "cached_input": "-",
-    "output_/_cost": "$0.034 / minute"
-  },
-  {
-    "model": "gpt-live-transcribe",
-    "modality": "Audio",
-    "input": "-",
-    "cached_input": "-",
-    "output_/_cost": "$0.017 / minute"
-  },
-  {
-    "model": "gpt-realtime-whisper",
-    "modality": "Audio",
-    "input": "-",
-    "cached_input": "-",
-    "output_/_cost": "$0.017 / minute"
-  },
-  {
     "model": "gpt-image-2",
     "modality": "Image",
     "input": "$8.00",
@@ -407,34 +196,6 @@
     "output": null
   },
   {
-    "model": "gpt-image-1.5",
-    "modality": "Image",
-    "input": "$8.00",
-    "cached_input": "$2.00",
-    "output": "$32.00"
-  },
-  {
-    "model": "Text",
-    "modality": "$5.00",
-    "input": "$1.25",
-    "cached_input": "$10.00",
-    "output": null
-  },
-  {
-    "model": "gpt-image-1-mini",
-    "modality": "Image",
-    "input": "$2.50",
-    "cached_input": "$0.25",
-    "output": "$8.00"
-  },
-  {
-    "model": "Text",
-    "modality": "$2.00",
-    "input": "$0.20",
-    "cached_input": "-",
-    "output": null
-  },
-  {
     "model": "gpt-image-2",
     "modality": "Image",
     "input": "$4.00",
@@ -445,34 +206,6 @@
     "model": "Text",
     "modality": "$2.50",
     "input": "$0.625",
-    "cached_input": "-",
-    "output": null
-  },
-  {
-    "model": "gpt-image-1.5",
-    "modality": "Image",
-    "input": "$4.00",
-    "cached_input": "$1.00",
-    "output": "$16.00"
-  },
-  {
-    "model": "Text",
-    "modality": "$2.50",
-    "input": "$0.63",
-    "cached_input": "$5.00",
-    "output": null
-  },
-  {
-    "model": "gpt-image-1-mini",
-    "modality": "Image",
-    "input": "$1.25",
-    "cached_input": "$0.13",
-    "output": "$4.00"
-  },
-  {
-    "model": "Text",
-    "modality": "$1.00",
-    "input": "$0.10",
     "cached_input": "-",
     "output": null
   },
@@ -533,11 +266,11 @@
     "price_per_second": null
   },
   {
-    "model": "gpt-transcribe",
-    "use_case": "Transcription",
+    "model": "gpt-realtime-translate",
+    "use_case": "Live translation",
     "input": "-",
     "output": "-",
-    "estimated_cost": "$0.0045 / minute"
+    "estimated_cost": "$0.034 / minute"
   },
   {
     "model": "gpt-live-transcribe",
@@ -545,6 +278,20 @@
     "input": "-",
     "output": "-",
     "estimated_cost": "$0.017 / minute"
+  },
+  {
+    "model": "gpt-realtime-whisper",
+    "use_case": "Live transcription",
+    "input": "-",
+    "output": "-",
+    "estimated_cost": "$0.017 / minute"
+  },
+  {
+    "model": "gpt-transcribe",
+    "use_case": "Transcription",
+    "input": "-",
+    "output": "-",
+    "estimated_cost": "$0.0045 / minute"
   },
   {
     "model": "gpt-4o-transcribe",
@@ -613,13 +360,6 @@
     "input": "$1.75",
     "cached_input": "$0.175",
     "output": "$14.00"
-  },
-  {
-    "category": "Cyber",
-    "model": "gpt-5.4-cyber",
-    "input": "-",
-    "cached_input": "-",
-    "output": "-"
   },
   {
     "category": "Codex",
