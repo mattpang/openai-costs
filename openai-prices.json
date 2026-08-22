@@ -1,10 +1,10 @@
 [
   {
     "": "gpt-5.6-sol",
-    "short_context": "$5.00",
-    "long_context": "$0.50",
-    "model": "$6.25",
-    "input": "$45.00",
+    "short_context": "$4.00",
+    "long_context": "$0.40",
+    "model": "$5.00",
+    "input": "$30.00",
     "cached_input": null,
     "cache_writes": null,
     "output": null
@@ -31,10 +31,10 @@
   },
   {
     "": "gpt-5.6-sol",
-    "short_context": "$2.50",
-    "long_context": "$0.25",
-    "model": "$3.125",
-    "input": "$22.50",
+    "short_context": "$2.00",
+    "long_context": "$0.20",
+    "model": "$2.50",
+    "input": "$15.00",
     "cached_input": null,
     "cache_writes": null,
     "output": null
@@ -61,10 +61,10 @@
   },
   {
     "": "gpt-5.6-sol",
-    "short_context": "$2.50",
-    "long_context": "$0.25",
-    "model": "$3.125",
-    "input": "$22.50",
+    "short_context": "$2.00",
+    "long_context": "$0.20",
+    "model": "$2.50",
+    "input": "$15.00",
     "cached_input": null,
     "cache_writes": null,
     "output": null
@@ -91,10 +91,10 @@
   },
   {
     "": "gpt-5.6-sol",
-    "short_context": "$10.00",
-    "long_context": "$1.00",
-    "model": "$12.50",
-    "input": "$90.00",
+    "short_context": "$8.00",
+    "long_context": "$0.80",
+    "model": "$10.00",
+    "input": "$60.00",
     "cached_input": null,
     "cache_writes": null,
     "output": null
@@ -121,10 +121,10 @@
   },
   {
     "": "gpt-5.6-sol",
-    "short_context": "$5.00",
-    "long_context": "$0.50",
-    "model": "$6.25",
-    "input": "$45.00",
+    "short_context": "$4.00",
+    "long_context": "$0.40",
+    "model": "$5.00",
+    "input": "$30.00",
     "cached_input": null,
     "cache_writes": null,
     "output": null
