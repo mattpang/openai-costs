@@ -180,6 +180,10 @@
     "output": null
   },
   {
+    "model": "gpt-live-1",
+    "price_per_minute": "$0.05"
+  },
+  {
     "model": "gpt-realtime-2.1",
     "modality": "Audio",
     "input": "$32.00",
