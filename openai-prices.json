@@ -420,6 +420,13 @@
     "output": "$14.00"
   },
   {
+    "category": "Life Sciences",
+    "model": "gpt-rosalind-research",
+    "input": "$5.00",
+    "cached_input": "$0.50",
+    "output": "$25.00"
+  },
+  {
     "category": "Codex",
     "model": "gpt-5.3-codex",
     "input": "$3.50",
