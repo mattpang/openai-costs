@@ -228,62 +228,6 @@
     "output": null
   },
   {
-    "model": "sora-2",
-    "size": "720p",
-    "portrait": "720x1280",
-    "landscape": "1280x720",
-    "price_per_second": "$0.10"
-  },
-  {
-    "model": "sora-2-pro",
-    "size": "720p",
-    "portrait": "720x1280",
-    "landscape": "1280x720",
-    "price_per_second": "$0.30"
-  },
-  {
-    "model": "1024p",
-    "size": "1024x1792",
-    "portrait": "1792x1024",
-    "landscape": "$0.50",
-    "price_per_second": null
-  },
-  {
-    "model": "1080p",
-    "size": "1080x1920",
-    "portrait": "1920x1080",
-    "landscape": "$0.70",
-    "price_per_second": null
-  },
-  {
-    "model": "sora-2",
-    "size": "720p",
-    "portrait": "720x1280",
-    "landscape": "1280x720",
-    "price_per_second": "$0.05"
-  },
-  {
-    "model": "sora-2-pro",
-    "size": "720p",
-    "portrait": "720x1280",
-    "landscape": "1280x720",
-    "price_per_second": "$0.15"
-  },
-  {
-    "model": "1024p",
-    "size": "1024x1792",
-    "portrait": "1792x1024",
-    "landscape": "$0.25",
-    "price_per_second": null
-  },
-  {
-    "model": "1080p",
-    "size": "1080x1920",
-    "portrait": "1920x1080",
-    "landscape": "$0.35",
-    "price_per_second": null
-  },
-  {
     "model": "gpt-realtime-translate",
     "use_case": "Live translation",
     "input": "-",
