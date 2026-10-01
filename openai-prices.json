@@ -238,6 +238,34 @@
     "output": null
   },
   {
+    "model": "gpt-image-2.5-sunburst",
+    "modality": "Image",
+    "input": "$4.00",
+    "cached_input": "$1.00",
+    "output": "$15.00"
+  },
+  {
+    "model": "Text",
+    "modality": "$2.50",
+    "input": "$0.625",
+    "cached_input": "-",
+    "output": null
+  },
+  {
+    "model": "gpt-image-2.5-flare",
+    "modality": "Image",
+    "input": "$4.00",
+    "cached_input": "$1.00",
+    "output": "$15.00"
+  },
+  {
+    "model": "Text",
+    "modality": "$2.50",
+    "input": "$0.625",
+    "cached_input": "-",
+    "output": null
+  },
+  {
     "model": "gpt-realtime-translate",
     "use_case": "Live translation",
     "input": "-",
