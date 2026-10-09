@@ -130,6 +130,16 @@
     "output": null
   },
   {
+    "": "gpt-6.1-sol",
+    "short_context": "$12.00",
+    "long_context": "$0.60",
+    "model": "$15.00",
+    "input": "$90.00",
+    "cached_input": null,
+    "cache_writes": null,
+    "output": null
+  },
+  {
     "": "gpt-5.6-sol",
     "short_context": "$4.00",
     "long_context": "$0.40",
