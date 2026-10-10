@@ -160,6 +160,18 @@
     "output": null
   },
   {
+    "model": "gpt-rosalind-research",
+    "input": "$5.00",
+    "cached_input": "$0.50",
+    "output": "$25.00"
+  },
+  {
+    "model": "gpt-rosalind-discovery",
+    "input": "$5.00",
+    "cached_input": "$0.50",
+    "output": "$25.00"
+  },
+  {
     "model": "gpt-live-1",
     "price_per_minute": "$0.05"
   },
@@ -370,13 +382,6 @@
     "input": "$1.75",
     "cached_input": "$0.175",
     "output": "$14.00"
-  },
-  {
-    "category": "Life Sciences",
-    "model": "gpt-rosalind-research",
-    "input": "$5.00",
-    "cached_input": "$0.50",
-    "output": "$25.00"
   },
   {
     "category": "Codex",
