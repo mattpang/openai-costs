@@ -1,7 +1,8 @@
 const fs = require('fs');
 
 // Playwright-extra allows plugin support — needed for stealth
-const { chromium } = require('playwright-extra');
+const { addExtra } = require('playwright-extra');
+const chromium = addExtra(require('playwright-chromium').chromium);
 
 // Load the stealth plugin and use defaults (all tricks to hide playwright usage)
 // Note: playwright-extra is compatible with most puppeteer-extra plugins
