@@ -1,3 +1,5 @@
+[![Parse OpenAI Pricing](https://github.com/mattpang/openai-costs/actions/workflows/parse-prices.yml/badge.svg)](https://github.com/mattpang/openai-costs/actions/workflows/parse-prices.yml)
+
 OpenAI doesn't put their model token costs as an API. 
 
 Didn't see anyone else fetch live pricing so I made one. This repo has a Github action (runs at midnight) that grabs them and spaffs it into the file `openai-prices.json`.
