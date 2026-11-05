@@ -242,6 +242,34 @@
     "cached_input": null
   },
   {
+    "model": "gpt-image-2.6-sunburst",
+    "modality": "Image",
+    "input": "$8.00",
+    "output": "$30.00",
+    "cached_input": "$2.00"
+  },
+  {
+    "model": "Text",
+    "modality": "$5.00",
+    "input": "-",
+    "output": "$1.25",
+    "cached_input": null
+  },
+  {
+    "model": "gpt-image-2.6-flare",
+    "modality": "Image",
+    "input": "$8.00",
+    "output": "$30.00",
+    "cached_input": "$2.00"
+  },
+  {
+    "model": "Text",
+    "modality": "$5.00",
+    "input": "-",
+    "output": "$1.25",
+    "cached_input": null
+  },
+  {
     "model": "gpt-image-2.5-sunburst",
     "modality": "Image",
     "input": "$8.00",
