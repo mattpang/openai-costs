@@ -140,22 +140,22 @@
     "12h_write": null
   },
   {
+    "": "gpt-6-cyber",
+    "prompt_caching": "$20.00",
+    "model": "$100.00",
+    "input": "$2.00",
+    "output": "$25.00",
+    "cached_input": "$50.00",
+    "30m_write": null,
+    "12h_write": null
+  },
+  {
     "": "gpt-5.6-sol",
     "prompt_caching": "$4.00",
     "model": "$20.00",
     "input": "$0.40",
     "output": "$5.00",
     "cached_input": "$10.00",
-    "30m_write": null,
-    "12h_write": null
-  },
-  {
-    "": "gpt-5.6-cyber",
-    "prompt_caching": "$12.50",
-    "model": "$75.00",
-    "input": "$1.25",
-    "output": "$15.625",
-    "cached_input": "$31.25",
     "30m_write": null,
     "12h_write": null
   },
